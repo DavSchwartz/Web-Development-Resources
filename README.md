@@ -9,10 +9,10 @@ the majority of these resources were found on Andrei Neagoie's [Udemy Course](ht
 - [color finder](http://paletton.com)
 - [browser support](https://www.w3schools.com/cssref/css3_browsersupport.asp)
 
-###HTML
+### HTML
 - [html practice](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/)
 
-###CSS
+### CSS
 - [css flexbox game](https://flexboxfroggy.com/)
 - [Maintainable CSS](https://maintainablecss.com/)
 - [css support in browsers](https://caniuse.com/)
@@ -26,5 +26,5 @@ the majority of these resources were found on Andrei Neagoie's [Udemy Course](ht
 - [prefixes for new css features](http://shouldiprefix.com/)
 - [css practice](https://learn.freecodecamp.org/responsive-web-design/basic-css/)
 
-###Additional Resources from Andrei's Course
+### Additional Resources from Andrei's Course
 - [resources](https://github.com/zero-to-mastery/complete-web-developer-manual)
